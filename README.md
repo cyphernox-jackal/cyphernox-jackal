@@ -1,6 +1,6 @@
-# Hi there, I'm Cyphernox Jackal! 🐺
+# Hi there, I'm Cyphernox 🐺
 
-![Profile Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub)
+![Profile Banner](https://placehold.co/1200x100/0D1117/FFFF?font=montserrat&text=Welcome+to+My+Profile)
 
 ## About Me
 Hello! I'm a passionate developer who loves turning ideas into reality through code. With a strong interest in **software development**, **open-source projects**, and **AI innovation**, I aim to create solutions that make life easier and more exciting for everyone.
